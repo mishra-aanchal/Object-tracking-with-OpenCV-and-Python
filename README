@@ -1,0 +1,3 @@
+# project is for those who want to start working with OpenCV for Computer Vision projects.
+We'll learn Object Tracking with OpenCV and Python. At the end of this project, you will know how Optical and Dense Optical Flow works,
+how to use the MeanShift and the CamShift and you will be able to do a Single Object Tracking and a Multi-Object Tracking.
